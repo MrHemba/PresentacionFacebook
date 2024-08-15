@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875431584287",
+    "project_id": "fir-facebook-3a3e5",
+    "storage_bucket": "fir-facebook-3a3e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875431584287:android:3b1bd5aedb593008146b2a",
+        "android_client_info": {
+          "package_name": "com.example.firebasefacebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB595t5b7G3usYbGT0eW8MVvw4y5wNrwFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875431584287:android:706703596d545f8b146b2a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB595t5b7G3usYbGT0eW8MVvw4y5wNrwFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
