@@ -83,7 +83,6 @@ public class MainActivity extends AppCompatActivity {
                     }
                 });
 
-
         Bundle parameters = new Bundle();
         parameters.putString("fields", "first_name,last_name,email");
         request.setParameters(parameters);
@@ -98,5 +97,4 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
-
 }
